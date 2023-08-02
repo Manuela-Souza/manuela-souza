@@ -19,6 +19,6 @@
   <a href = "manueladesouza2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/manuela-de-souza-assis-b39518219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/manuela-souza/manuela-souza/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/seu_usuario_github/seu_usuario_github/blob/output/github-contribution-grid-snake.svg)
 
 </div>
